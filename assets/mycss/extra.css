@@ -1,0 +1,174 @@
+body {
+  line-height: 1.5;
+}
+
+.fz-24 {
+  font-size: 24px;
+}
+
+.fz-48 {
+  font-size: 48px;
+}
+
+.coustomer-h {
+  height: 511px;
+}
+
+.footer-a {
+  flex: 0 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 576px) {
+  .h-header-img {
+    max-width: 16%;
+  }
+
+  .h-banner-position {
+    top: 40%;
+    right: 5%;
+  }
+
+  .h-banner-h3 {
+    font-size: 64px;
+  }
+
+  .h-banner-h6 {
+    font-size: 36px;
+  }
+
+  .h-fz {
+    font-size: 45px;
+  }
+
+  .product-h1 {
+    font-size: 48px;
+  }
+
+  .league-h2 {
+    font-size: 48px;
+  }
+
+  .bg-img {
+    background-image: url('/assets/images/index-bg-sm.png');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .opinion {
+    width: 60%;
+  }
+
+  .qa-h3-border {
+    font-size: 48px;
+    border-left: 8px solid #9F1213;
+  }
+}
+
+
+
+
+
+@media (min-width: 768px) {
+  .h-header-img {
+    max-width: 6.5%;
+  }
+
+  .h-banner-position {
+    top: 35%;
+    right: 9%;
+  }
+
+  .h-banner-h3 {
+    font-size: 64px;
+  }
+
+  .h-banner-h6 {
+    font-size: 36px;
+  }
+
+  .product-h1 {
+    font-size: 30px;
+  }
+
+  .league-h2 {
+    font-size: 48px;
+  }
+
+  .bg-img {
+    background-image: url('/assets/images/index-bg.png');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .opinion {
+    width: 30%;
+  }
+}
+
+
+@media (min-width: 992px) {
+  .product-h1 {
+    font-size: 48px;
+  }
+
+  .league-h2 {
+    font-size: 48px;
+  }
+}
+
+
+
+
+
+@media (max-width: 576px) {
+  .h-navbar {
+    border: 1px solid #FFFFFF;
+  }
+
+  .h-header-img {
+    max-width: 23%;
+  }
+
+  .h-banner-position {
+    top: 50%;
+    right: 0;
+  }
+
+  .product-h1 {
+    font-size: 48px;
+  }
+
+  .h-fz {
+    font-size: 24px;
+  }
+
+  .bg-img {
+    background-image: url('/assets/images/index-bg-sm.png');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .opinion {
+    width: 100%;
+  }
+
+  .qa-h3-border {
+    border-left: 8px solid #9F1213;
+  }
+}
+
+
+
+
